@@ -24,6 +24,7 @@ This project predicts the presence of heart disease using various machine learni
 - 🔁 **Forked** an existing project to explore and learn fundamental ML algorithms.
 - 🧪 **Tested and compared** 8 different models on the heart disease dataset.
 - 🧰 Identified that the project had **Python version constraints** (original code broke on Python 3.13).
+  - Fixed a syntax error in the graphing command (sns plots update)
   - 📉 Graphing modules and
   - 🧠 Neural Network (Keras/TensorFlow) were not working on Python 3.13.
 - 🔧 **Adapted the neural network implementation** to work using **PyTorch**, making it compatible with the latest Python versions.
